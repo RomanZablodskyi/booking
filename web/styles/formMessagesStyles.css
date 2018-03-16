@@ -1,0 +1,21 @@
+.messages{
+    padding: 10px;
+    background-color: #f2ab99;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.messages{
+    margin-bottom: 10px;
+}
+.messages ul{
+    margin-top: 10px;
+}
+.messages p,
+.messages li{
+    font-size: 14px;
+    font-weight: 100;
+}
+.messages ul{
+    list-style-position: inside;
+}

@@ -1,0 +1,27 @@
+.main-content .wrapper{
+    flex-direction: column;
+    font-weight: 100;
+}
+.main-content span{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.orders{
+    width: 100%;
+    border: none;
+}
+.orders tr:nth-of-type(odd){
+    background: #f9f9f9;
+}
+.orders tr:nth-of-type(even){
+    background: #ffffff;
+}
+.orders td{
+    padding: 7px;
+}
+.field{
+    border-bottom: dotted 1px #000000;
+}
+.value{
+    font-weight: 400;
+}
